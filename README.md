@@ -23,6 +23,7 @@ Professionally:
 - Lisp (in the context of Emacs).
 - Natural (programming language).
 - Powershell scripting
+- Profibus.
 - Prolog (*).
 - Risk management.
 - Software engineering.
@@ -54,6 +55,11 @@ Non-professionally:
 
 I wrote my first program at the age of 10.
 It was a video-game.
+
+### 🎓 Education
+
+- Software Engineer. Polytechnic University of Madrid.
+- Master on IT management. Polytechnic University of Madrid.
 
 ### 📂 Featured Projects
 
