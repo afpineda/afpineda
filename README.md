@@ -1,6 +1,12 @@
 #
 
-## 🌟 Hi there, my name is (identity hidden to protect the innocents)
+## 🌟 Hi there, my name is Ángel Fernández Pineda
+
+### 🌟 About Me
+
+- 🎯 **Expert in:** nothing.
+- 🌍 **Location:** Madrid / Spain.
+- 💬 **Languages:** Spanish (native), English.
 
 ### 🛠️ Skills and Technologies
 
@@ -11,8 +17,9 @@ processes I have been involved in over the last 40 years.
 
 Professionally:
 
-- Bash scripting
+- Bash scripting.
 - Basic and Visual Basic Script.
+- Bayesian inference.
 - Business continuity management.
 - COBOL.
 - DB2, Oracle, ADABAS, MS-Access and SQLite databases.
@@ -22,7 +29,7 @@ Professionally:
 - Java.
 - Lisp (in the context of Emacs).
 - Natural (programming language).
-- Powershell scripting
+- Powershell scripting.
 - Profibus.
 - Prolog (*).
 - Risk management.
@@ -58,8 +65,19 @@ It was a video-game.
 
 ### 🎓 Education
 
-- Software Engineer. Polytechnic University of Madrid.
-- Master on IT management. Polytechnic University of Madrid.
+- Software Engineer. Technical University of Madrid.
+- Master on IT management. Technical University of Madrid.
+
+### 📖 Publications
+
+- [*Additional Comments on Conjectures, Hypotheses and Consequences*](https://link.springer.com/chapter/10.1007/3-540-44990-6_8).
+  Proceedings of the Fifth International Conference on Artificial Intelligence and Symbolic Computation (AISC).
+  Theory, Implementations and Applications.
+  Madrid 2000. Springer-Verlag.
+
+- [O'CIAO: An Object Oriented Programming model using CIAO Prolog](https://oa.upm.es/14764/1/HERME_TCREP_ANDMANS_1999-3.pdf).
+  Computer Science Department.
+  Technical University of Madrid (UPM), Spain.
 
 ### 📂 Featured Projects
 
