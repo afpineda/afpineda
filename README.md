@@ -1,6 +1,6 @@
 #
 
-## 🌟 Hi there, my name is Ángel Fernández Pineda
+## 👋 Hi there, my name is Ángel Fernández Pineda
 
 ### 🌟 About Me
 
