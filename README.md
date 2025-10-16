@@ -32,10 +32,11 @@ Professionally:
 - Powershell scripting.
 - Profibus.
 - Prolog (*).
+- Reverse engineering.
 - Risk management.
 - Software engineering.
 - Subversion.
-- Systems auditing (*).
+- Systems audit (*).
 - Tcl/Tk.
 - Tech consulting.
 - Tech provisioning (*).
@@ -52,7 +53,7 @@ Non-professionally:
 - C#.
 - C++.
 - CaML.
-- Delphi (*) (since version 1.0).
+- Delphi (*) (since version 3.0).
 - GIT
 - J2ME.
 - Modula 2.
